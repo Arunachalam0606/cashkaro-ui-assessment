@@ -1,21 +1,15 @@
-# React + TypeScript + Vite + shadcn/ui
-
-This is a template for a new Vite project with React, TypeScript, and shadcn/ui.
-
-## Adding components
-
-To add components to your app, run the following command:
+# CashKaro UI Assessment
 
 ```bash
-npx shadcn@latest add button
-```
+# Clone the repo
+git clone [https://github.com/Arunachalam0606/cashkaro-ui-assessment.git](https://github.com/Arunachalam0606/cashkaro-ui-assessment.git)
 
-This will place the ui components in the `src/components` directory.
+# Navigate into the project folder
+cd cashkaro-ui-assessment
 
-## Using components
+# Install dependencies
+bun install
 
-To use the components in your app, import them as follows:
-
-```tsx
-import { Button } from "@/components/ui/button"
+# Start the development server
+bun dev
 ```
