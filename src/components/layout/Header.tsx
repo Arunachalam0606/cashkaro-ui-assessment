@@ -22,7 +22,7 @@ export const Header = () => {
 
   return (
     <header className="hidden h-20.5 w-full items-center justify-between p-4 shadow-[0px_4px_4px_0px_#0000000A] md:flex">
-      <div className="mx-auto flex w-full max-w-360 items-center justify-between gap-4">
+      <div className="mx-auto flex w-full max-w-324 items-center justify-between gap-4">
         <div className="flex items-center gap-6">
           <img
             src={HamburgerIcon}

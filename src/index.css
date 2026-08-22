@@ -139,3 +139,54 @@
     cursor: pointer;
   }
 }
+
+@layer utilities {
+  .bg-hero-radial {
+    background: radial-gradient(
+      100% 100% at 50% 0%,
+      #ffab8c 0%,
+      #d5219e 79.81%
+    );
+  }
+
+  .bg-glass-card {
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.12) 0%,
+      rgba(255, 255, 255, 0.048) 100%
+    );
+    mix-blend-mode: plus-lighter;
+    border: 2px solid rgba(255, 255, 255, 0.22);
+    backdrop-filter: blur(34px);
+    -webkit-backdrop-filter: blur(34px);
+  }
+
+  .bg-glass-btn {
+    background: radial-gradient(
+      71.51% 127.5% at 50% -27.5%,
+      rgba(255, 255, 255, 0.43) 0%,
+      rgba(47, 47, 47, 0.43) 100%
+    );
+    mix-blend-mode: plus-lighter;
+    border: 1px solid rgba(255, 255, 255, 0.32);
+    backdrop-filter: blur(34px);
+    -webkit-backdrop-filter: blur(34px);
+    box-shadow:
+      0px 15px 9px rgba(0, 0, 0, 0.04),
+      0px 7px 7px rgba(0, 0, 0, 0.06),
+      0px 2px 4px rgba(0, 0, 0, 0.07),
+      0px 27px 11px rgba(0, 0, 0, 0.01),
+      0px 15px 9px rgba(0, 0, 0, 0.04),
+      0px 7px 7px rgba(0, 0, 0, 0.06),
+      0px 2px 4px rgba(0, 0, 0, 0.07);
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

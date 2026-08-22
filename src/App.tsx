@@ -7,8 +7,10 @@ export const App = () => {
     <section>
       <Header />
 
-      <div className="mx-auto w-full max-w-360">
-        <HeroBanner />
+      <div className="mx-auto w-full max-w-324">
+        <div className="md:mx-7 md:my-7.5">
+          <HeroBanner />
+        </div>
       </div>
 
       <Footer />
