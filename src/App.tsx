@@ -5,6 +5,7 @@ import { AboutSection } from "./components/cashback/AboutSection"
 import { CashbackActionCard } from "./components/cashback/CashbackActionCard"
 import { TimelinesSection } from "./components/cashback/TimelinesSection"
 import { ImportantTermsSection } from "./components/cashback/ImportantTermsSection"
+import { ExcludedCasesSection } from "./components/cashback/ExcludedCasesSection"
 
 export const App = () => {
   return (
@@ -22,6 +23,7 @@ export const App = () => {
               <AboutSection />
               <TimelinesSection />
               <ImportantTermsSection />
+              <ExcludedCasesSection />
             </div>
 
             <div className="relative z-0 hidden md:sticky md:top-6 md:-mt-34 md:block md:w-132">
