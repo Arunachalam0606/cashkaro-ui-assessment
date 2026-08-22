@@ -149,6 +149,15 @@
     );
   }
 
+  .bg-hero-glow {
+    background: radial-gradient(
+      213.74% 104.59% at 84.92% 17.89%,
+      #fda28d 0%,
+      #d5219e 100%
+    );
+    filter: blur(17px);
+  }
+
   .bg-glass-card {
     background: linear-gradient(
       180deg,
@@ -188,5 +197,18 @@
   .no-scrollbar {
     -ms-overflow-style: none;
     scrollbar-width: none;
+  }
+
+  @keyframes shimmer-sweep {
+    0% {
+      transform: translateX(-150%) skewX(-20deg);
+    }
+    100% {
+      transform: translateX(250%) skewX(-20deg);
+    }
+  }
+
+  .animate-shimmer-sweep {
+    animation: shimmer-sweep 2.5s infinite;
   }
 }
