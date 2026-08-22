@@ -8,7 +8,7 @@ export const AboutSection = () => {
     "About Myntra Flipkart is India's largest marketplace, selling mobile to TVs to Fashion, at unbeatable prices. Usually Flipkart runs Payday sales during the first 5 days each month. The only way beat Flipkart's prices is via CashKaro. CashKaro gives you extra Cashback by visiting Flipkart though CashKaro"
 
   const toggleExpanded = () => {
-    setIsExpanded((previous) => !previous)
+    setIsExpanded((prev) => !prev)
   }
 
   return (

@@ -16,7 +16,10 @@ export const CashbackActionCard = (props: CashbackActionCardProps) => {
   const { isMobileSticky = false } = props
 
   const defaultTickerIndex = 0
+  const defaultIsTransitioning = true
+
   const [tickerIndex, setTickerIndex] = useState(defaultTickerIndex)
+  const [isTransitioning, setIsTransitioning] = useState(defaultIsTransitioning)
 
   const tickerItems = [
     {
@@ -33,25 +36,40 @@ export const CashbackActionCard = (props: CashbackActionCardProps) => {
     },
   ]
 
+  const extendedTickerItems = [...tickerItems, tickerItems[0]]
+
+  const handleTransitionEnd = () => {
+    if (tickerIndex >= tickerItems.length) {
+      setIsTransitioning(false)
+      setTickerIndex(0)
+    }
+  }
+
   useEffect(() => {
     const tickerInterval = setInterval(() => {
-      setTickerIndex((previous) => (previous + 1) % tickerItems.length)
-    }, 3500)
+      setIsTransitioning(true)
+      setTickerIndex((prev) => prev + 1)
+    }, 5000)
 
     return () => {
       clearInterval(tickerInterval)
     }
-  }, [tickerItems.length])
+  }, [])
 
   if (isMobileSticky) {
     return (
       <div className="fixed inset-x-0 bottom-0 z-40 flex flex-col items-center justify-center gap-1 border-t border-border bg-white px-4 pt-1.5 pb-4 shadow-[0_-4px_20px_rgba(0,0,0,0.08)] md:hidden">
         <div className="h-6 w-full overflow-hidden">
           <div
-            className="flex w-full transition-transform duration-500 ease-in-out"
+            onTransitionEnd={handleTransitionEnd}
+            className={`flex w-full ${
+              isTransitioning
+                ? "transition-transform duration-800 ease-in-out"
+                : "transition-none"
+            }`}
             style={{ transform: `translateX(-${tickerIndex * 100}%)` }}
           >
-            {tickerItems.map((item, index) => (
+            {extendedTickerItems.map((item, index) => (
               <div
                 key={`${item.text}-${index}`}
                 className="flex h-6 w-full shrink-0 items-center justify-center gap-2"
@@ -133,10 +151,15 @@ export const CashbackActionCard = (props: CashbackActionCardProps) => {
         <div className="flex w-full flex-col items-center gap-1">
           <div className="h-9 w-full overflow-hidden">
             <div
-              className="flex w-full transition-transform duration-500 ease-in-out"
+              onTransitionEnd={handleTransitionEnd}
+              className={`flex w-full ${
+                isTransitioning
+                  ? "transition-transform duration-500 ease-in-out"
+                  : "transition-none"
+              }`}
               style={{ transform: `translateX(-${tickerIndex * 100}%)` }}
             >
-              {tickerItems.map((item, index) => (
+              {extendedTickerItems.map((item, index) => (
                 <div
                   key={`${item.text}-${index}`}
                   className="flex h-9 w-full shrink-0 items-center justify-center gap-2"
@@ -147,7 +170,7 @@ export const CashbackActionCard = (props: CashbackActionCardProps) => {
                     className="h-9 w-auto object-contain"
                   />
 
-                  <span className="text-[15px] leading-tight font-semibold text-ck-muted">
+                  <span className="text-[clamp(12px,1vw,15px)] leading-tight font-semibold text-ck-muted">
                     {item.text}
                   </span>
                 </div>
@@ -157,7 +180,7 @@ export const CashbackActionCard = (props: CashbackActionCardProps) => {
 
           <button
             type="button"
-            className="relative flex h-14 w-full cursor-pointer items-center justify-center gap-2 overflow-hidden rounded-[16px] bg-ck-orange px-6 text-base font-bold text-white shadow-sm transition-all hover:brightness-105 active:scale-[0.99] md:h-17 md:text-[clamp(12px,2vw,18px)]"
+            className="relative flex h-14 w-full cursor-pointer items-center justify-center gap-2 overflow-hidden rounded-[16px] bg-ck-orange px-6 text-[clamp(12px,1vw,16px)] font-bold text-white shadow-sm transition-all hover:brightness-105 active:scale-[0.99] md:h-17 md:text-[clamp(12px,2vw,18px)]"
           >
             <div className="animate-shimmer-sweep pointer-events-none absolute inset-y-0 w-1/3 bg-gradient-to-r from-transparent via-white/40 to-transparent" />
 
