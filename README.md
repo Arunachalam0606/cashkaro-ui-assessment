@@ -2,7 +2,7 @@
 
 ```bash
 # Clone the repo
-git clone [https://github.com/Arunachalam0606/cashkaro-ui-assessment.git](https://github.com/Arunachalam0606/cashkaro-ui-assessment.git)
+git clone https://github.com/Arunachalam0606/cashkaro-ui-assessment.git
 
 # Navigate into the project folder
 cd cashkaro-ui-assessment
