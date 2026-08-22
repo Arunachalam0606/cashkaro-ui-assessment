@@ -4,6 +4,7 @@ import { HeroBanner } from "@/components/cashback/HeroBanner"
 import { AboutSection } from "./components/cashback/AboutSection"
 import { CashbackActionCard } from "./components/cashback/CashbackActionCard"
 import { TimelinesSection } from "./components/cashback/TimelinesSection"
+import { ImportantTermsSection } from "./components/cashback/ImportantTermsSection"
 
 export const App = () => {
   return (
@@ -20,6 +21,7 @@ export const App = () => {
             <div className="flex flex-col gap-6 md:w-auto md:max-w-160 md:min-w-100">
               <AboutSection />
               <TimelinesSection />
+              <ImportantTermsSection />
             </div>
 
             <div className="relative z-0 hidden md:sticky md:top-6 md:-mt-34 md:block md:w-132">

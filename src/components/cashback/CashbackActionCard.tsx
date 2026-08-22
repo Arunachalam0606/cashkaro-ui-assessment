@@ -134,7 +134,7 @@ export const CashbackActionCard = (props: CashbackActionCardProps) => {
           <img
             src={RupeeCoin}
             alt="rupee-coin"
-            className="size-12 shrink-0 object-contain"
+            className="h-11.5 w-14 shrink-0 object-contain"
           />
 
           <div className="flex flex-col gap-1">

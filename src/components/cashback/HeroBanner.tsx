@@ -1,4 +1,4 @@
-import ChevronDown from "@/assets/svgs/icons/chevron-down-icon.svg"
+import { ChevronDownIcon } from "../icons/ChevronDownIcon"
 import ShareIcon from "@/assets/svgs/icons/share-icon.svg"
 import HeroGradientOverlay from "@/assets/svgs/hero-gradient-overlay.svg"
 
@@ -31,7 +31,7 @@ export const HeroBanner = () => {
           aria-label="Go back"
           className="flex size-10 items-center justify-center rounded-full border border-white/20 bg-white/10 text-white backdrop-blur-md"
         >
-          <img src={ChevronDown} alt="back-icon" className="size-5 rotate-90" />
+          <ChevronDownIcon className="size-5 rotate-90" />
         </button>
 
         <div className="flex h-10 w-29.5 items-center justify-center rounded-full bg-white px-5 py-1.5 shadow-xs">
@@ -72,7 +72,7 @@ export const HeroBanner = () => {
           </span>
 
           <span>
-            <img src={ChevronDown} alt="chevron-down-icon" className="size-6" />
+            <ChevronDownIcon className="size-6" color="white" />
           </span>
         </button>
       </div>
@@ -95,10 +95,9 @@ export const HeroBanner = () => {
             View All Rates
           </span>
 
-          <img
-            src={ChevronDown}
-            alt="chevron-right-icon"
-            className="size-4 -rotate-90"
+          <ChevronDownIcon
+            className="size-4 -rotate-90 md:rotate-90"
+            color="white"
           />
         </button>
       </div>
