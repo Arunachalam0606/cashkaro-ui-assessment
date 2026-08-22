@@ -1,0 +1,7831 @@
+/* Desktop */
+
+position: relative;
+width: 1440px;
+height: 2809px;
+overflow-y: scroll;
+
+background: #ffffff;
+
+/* bg-frame-brand */
+
+position: absolute;
+width: 528px;
+height: 216px;
+left: 812px;
+top: 189px;
+
+/* Frame 1991635278 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 20px;
+gap: 10px;
+
+position: absolute;
+width: 528px;
+height: 103px;
+left: 0px;
+bottom: 0px;
+
+background: radial-gradient(100% 100% at 50% 0%, #ffab8c 0%, #d5219e 79.81%);
+border-radius: 18px;
+
+/* Frame 1991635280 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 441.26px;
+height: 63px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* logo/myntra */
+
+box-sizing: border-box;
+
+width: 186.26px;
+height: 63px;
+
+background: #ffffff;
+border: 0.730159px solid #e0e9f1;
+border-radius: 10.2222px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* logoAjio */
+
+position: absolute;
+visibility: hidden;
+height: 50.22px;
+left: 10.28%;
+right: 22.74%;
+top: calc(50% - 50.22px / 2 - 1.94px);
+
+background: url(image.png);
+
+/* image 66772 */
+
+position: absolute;
+width: 117.27px;
+height: 58.64px;
+left: calc(50% - 117.27px / 2 - 0.38px);
+top: calc(50% - 58.64px / 2 + 1.06px);
+
+background: url(image.png);
+
+/* Frame 1991635279 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 239px;
+height: 58px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Upto 7% Cashback */
+
+width: 239px;
+height: 32px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 32px;
+letter-spacing: 0.351562px;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* View All → */
+
+width: 239px;
+height: 22px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.351562px;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Container */
+
+position: absolute;
+width: 1240px;
+height: 298px;
+left: calc(50% - 1240px / 2);
+top: 112px;
+
+background: radial-gradient(100% 100% at 50% 0%, #ffab8c 0%, #d5219e 79.81%);
+border-radius: 20px;
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 366px;
+top: 67px;
+
+/* Frame 1991634916 */
+
+position: absolute;
+width: 821px;
+height: 222px;
+left: 419px;
+top: 38px;
+
+/* Component 135 */
+
+position: absolute;
+width: 794px;
+height: 254px;
+left: 27px;
+top: -17px;
+
+/* Group 1354723168 */
+
+position: absolute;
+width: 1443px;
+height: 222px;
+left: 24px;
+top: 17px;
+
+/* Frame 1991634547 */
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: 24px;
+top: 17px;
+
+/* Rectangle 34628705 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: calc(50% - 144px / 2 - 0.06px);
+top: calc(50% - 222px / 2 - 0.54px);
+
+background: linear-gradient(
+  180deg,
+  rgba(255, 255, 255, 0.12) 0%,
+  rgba(255, 255, 255, 0.048) 100%
+);
+mix-blend-mode: plus-lighter;
+border: 2px solid rgba(255, 255, 255, 0.22);
+box-shadow:
+  0px 40.6001px 16.5408px rgba(0, 0, 0, 0.01),
+  0px 22.5556px 13.5334px rgba(0, 0, 0, 0.04),
+  0px 10.526px 10.526px rgba(0, 0, 0, 0.06),
+  0px 3.00742px 6.01483px rgba(0, 0, 0, 0.07);
+border-radius: 24px;
+
+/* Frame 1686562166 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+position: absolute;
+width: 110px;
+height: 75.19px;
+left: calc(50% - 110px / 2 + 0.75px);
+bottom: 15.04px;
+
+/* Footwear */
+
+width: 110px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Flat 7% */
+
+width: 88px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1686563103 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 18px;
+top: 18px;
+
+/* isometric-icon-laptop-by-bnbicons.com 1 */
+
+position: absolute;
+width: 98.12px;
+height: 79.51px;
+left: calc(50% - 98.12px / 2 - 0px);
+top: calc(50% - 79.51px / 2 - 0.85px);
+
+background: url(bg_removal [Background removed].png);
+
+/* Frame 1991634554 */
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: 836px;
+top: 17px;
+
+/* Rectangle 34628705 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: calc(50% - 144px / 2 - 0.06px);
+top: calc(50% - 222px / 2 - 0.54px);
+
+background: linear-gradient(
+  180deg,
+  rgba(255, 255, 255, 0.12) 0%,
+  rgba(255, 255, 255, 0.048) 100%
+);
+mix-blend-mode: plus-lighter;
+border: 2px solid rgba(255, 255, 255, 0.22);
+box-shadow:
+  0px 40.6001px 16.5408px rgba(0, 0, 0, 0.01),
+  0px 22.5556px 13.5334px rgba(0, 0, 0, 0.04),
+  0px 10.526px 10.526px rgba(0, 0, 0, 0.06),
+  0px 3.00742px 6.01483px rgba(0, 0, 0, 0.07);
+border-radius: 24px;
+
+/* Frame 1686562129 */
+
+position: absolute;
+width: 90.22px;
+height: 99.24px;
+left: 20.51px;
+top: 36.09px;
+
+/* Frame 1686562166 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+position: absolute;
+width: 110px;
+height: 75.19px;
+left: calc(50% - 110px / 2 + 0.75px);
+bottom: 15.04px;
+
+/* Footwear */
+
+width: 110px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Flat 7% */
+
+width: 60px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1686563103 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 18px;
+top: 18px;
+
+/* isometric-icon-laptop-by-bnbicons.com 1 */
+
+position: absolute;
+width: 98.12px;
+height: 79.51px;
+left: calc(50% - 98.12px / 2 + 0px);
+top: calc(50% - 79.51px / 2 - 0.85px);
+
+background: url(bg_removal [Background removed]);
+
+/* Frame 1991634549 */
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: 186px;
+top: 17px;
+
+/* Rectangle 34628705 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: calc(50% - 144px / 2 - 0.46px);
+top: calc(50% - 222px / 2 - 0.54px);
+
+background: linear-gradient(
+  180deg,
+  rgba(255, 255, 255, 0.12) 0%,
+  rgba(255, 255, 255, 0.048) 100%
+);
+mix-blend-mode: plus-lighter;
+border: 2px solid rgba(255, 255, 255, 0.22);
+box-shadow:
+  0px 40.6001px 16.5408px rgba(0, 0, 0, 0.01),
+  0px 22.5556px 13.5334px rgba(0, 0, 0, 0.04),
+  0px 10.526px 10.526px rgba(0, 0, 0, 0.06),
+  0px 3.00742px 6.01483px rgba(0, 0, 0, 0.07);
+border-radius: 24px;
+
+/* Frame 1686562166 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+position: absolute;
+width: 110px;
+height: 75.19px;
+left: calc(50% - 110px / 2 + 0.75px);
+bottom: 15.04px;
+
+/* Apparel */
+
+width: 110px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Flat 7% */
+
+width: 84px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1686563103 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 18px;
+top: 18px;
+
+/* isometric-icon-laptop-by-bnbicons.com 2 */
+
+position: absolute;
+width: 98.12px;
+height: 93.04px;
+left: calc(50% - 98.12px / 2 - 0px);
+top: calc(50% - 93.04px / 2 - 0.85px);
+
+background: url(bg_removal [Background removed].png);
+
+/* Frame 1991634555 */
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: 998px;
+top: 17px;
+
+/* Rectangle 34628705 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: calc(50% - 144px / 2 - 0.46px);
+top: calc(50% - 222px / 2 - 0.54px);
+
+background: linear-gradient(
+  180deg,
+  rgba(255, 255, 255, 0.12) 0%,
+  rgba(255, 255, 255, 0.048) 100%
+);
+mix-blend-mode: plus-lighter;
+border: 2px solid rgba(255, 255, 255, 0.22);
+box-shadow:
+  0px 40.6001px 16.5408px rgba(0, 0, 0, 0.01),
+  0px 22.5556px 13.5334px rgba(0, 0, 0, 0.04),
+  0px 10.526px 10.526px rgba(0, 0, 0, 0.06),
+  0px 3.00742px 6.01483px rgba(0, 0, 0, 0.07);
+border-radius: 24px;
+
+/* Frame 1686562129 */
+
+position: absolute;
+width: 90.22px;
+height: 99.24px;
+left: 20.51px;
+top: 36.09px;
+
+/* Frame 1686562166 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+position: absolute;
+width: 110px;
+height: 75.19px;
+left: calc(50% - 110px / 2 + 0.75px);
+bottom: 15.04px;
+
+/* Apparel */
+
+width: 110px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Flat 7% */
+
+width: 60px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1686563103 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 18px;
+top: 18px;
+
+/* isometric-icon-laptop-by-bnbicons.com 2 */
+
+position: absolute;
+width: 98.12px;
+height: 93.04px;
+left: calc(50% - 98.12px / 2 + 0px);
+top: calc(50% - 93.04px / 2 - 0.85px);
+
+background: url(bg_removal [Background removed].png);
+
+/* Frame 1991634550 */
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: 349px;
+top: 17px;
+
+/* Rectangle 34628705 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: calc(50% - 144px / 2 + 0.14px);
+top: calc(50% - 222px / 2 - 0.54px);
+
+background: linear-gradient(
+  180deg,
+  rgba(255, 255, 255, 0.12) 0%,
+  rgba(255, 255, 255, 0.048) 100%
+);
+mix-blend-mode: plus-lighter;
+border: 2px solid rgba(255, 255, 255, 0.22);
+box-shadow:
+  0px 40.6001px 16.5408px rgba(0, 0, 0, 0.01),
+  0px 22.5556px 13.5334px rgba(0, 0, 0, 0.04),
+  0px 10.526px 10.526px rgba(0, 0, 0, 0.06),
+  0px 3.00742px 6.01483px rgba(0, 0, 0, 0.07);
+border-radius: 24px;
+
+/* Frame 1686562129 */
+
+position: absolute;
+width: 90.22px;
+height: 99.24px;
+left: 20.51px;
+top: 36.09px;
+
+/* Frame 1686562166 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+position: absolute;
+width: 110px;
+height: 75.19px;
+left: calc(50% - 110px / 2 + 0.75px);
+bottom: 15.04px;
+
+/* Beauty & Grooming */
+
+width: 110px;
+height: 48px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* or 133% */
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Flat 2.80% */
+
+width: 60px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1686563103 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 18px;
+top: 18px;
+
+/* isometric-icon-laptop-by-bnbicons.com 1 */
+
+position: absolute;
+width: 98.12px;
+height: 79.51px;
+left: calc(50% - 98.12px / 2 - 0px);
+top: calc(50% - 79.51px / 2 - 0.85px);
+
+background: url(bg_removal [Background removed].png);
+
+/* Frame 1991634556 */
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: 1161px;
+top: 17px;
+
+/* Rectangle 34628705 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: calc(50% - 144px / 2 + 0.14px);
+top: calc(50% - 222px / 2 - 0.54px);
+
+background: linear-gradient(
+  180deg,
+  rgba(255, 255, 255, 0.12) 0%,
+  rgba(255, 255, 255, 0.048) 100%
+);
+mix-blend-mode: plus-lighter;
+border: 2px solid rgba(255, 255, 255, 0.22);
+box-shadow:
+  0px 40.6001px 16.5408px rgba(0, 0, 0, 0.01),
+  0px 22.5556px 13.5334px rgba(0, 0, 0, 0.04),
+  0px 10.526px 10.526px rgba(0, 0, 0, 0.06),
+  0px 3.00742px 6.01483px rgba(0, 0, 0, 0.07);
+border-radius: 24px;
+
+/* Frame 1686562129 */
+
+position: absolute;
+width: 90.22px;
+height: 99.24px;
+left: 20.51px;
+top: 36.09px;
+
+/* Frame 1686562166 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+position: absolute;
+width: 110px;
+height: 75.19px;
+left: calc(50% - 110px / 2 + 0.75px);
+bottom: 15.04px;
+
+/* Beauty & Grooming */
+
+width: 110px;
+height: 48px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* or 133% */
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Flat 2.80% */
+
+width: 87px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1686563103 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 18px;
+top: 18px;
+
+/* isometric-icon-laptop-by-bnbicons.com 1 */
+
+position: absolute;
+width: 98.12px;
+height: 79.51px;
+left: calc(50% - 98.12px / 2 + 0px);
+top: calc(50% - 79.51px / 2 - 0.85px);
+
+background: url(bg_removal [Background removed].png);
+
+/* Frame 1991634551 */
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: 511px;
+top: 17px;
+
+/* Rectangle 34628705 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: calc(50% - 144px / 2 - 0.26px);
+top: calc(50% - 222px / 2 - 0.54px);
+
+background: linear-gradient(
+  180deg,
+  rgba(255, 255, 255, 0.12) 0%,
+  rgba(255, 255, 255, 0.048) 100%
+);
+mix-blend-mode: plus-lighter;
+border: 2px solid rgba(255, 255, 255, 0.22);
+box-shadow:
+  0px 40.6001px 16.5408px rgba(0, 0, 0, 0.01),
+  0px 22.5556px 13.5334px rgba(0, 0, 0, 0.04),
+  0px 10.526px 10.526px rgba(0, 0, 0, 0.06),
+  0px 3.00742px 6.01483px rgba(0, 0, 0, 0.07);
+border-radius: 24px;
+
+/* Frame 1686562129 */
+
+position: absolute;
+width: 90.22px;
+height: 99.24px;
+left: 20.51px;
+top: 36.09px;
+
+/* Frame 1686562166 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+position: absolute;
+width: 110px;
+height: 75.19px;
+left: calc(50% - 110px / 2 + 0.75px);
+bottom: 15.04px;
+
+/* Mobiles */
+
+width: 110px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Flat 7% */
+
+width: 60px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1686563103 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 18px;
+top: 18px;
+
+/* isometric-icon-laptop-by-bnbicons.com 1 */
+
+position: absolute;
+width: 98.12px;
+height: 79.51px;
+left: calc(50% - 98.12px / 2 - 0px);
+top: calc(50% - 79.51px / 2 - 0.85px);
+
+background: url(bg_removal [Background removed].png);
+
+/* Frame 1991634557 */
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: 1323px;
+top: 17px;
+
+/* Rectangle 34628705 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: calc(50% - 144px / 2 - 0.26px);
+top: calc(50% - 222px / 2 - 0.54px);
+
+background: linear-gradient(
+  180deg,
+  rgba(255, 255, 255, 0.12) 0%,
+  rgba(255, 255, 255, 0.048) 100%
+);
+mix-blend-mode: plus-lighter;
+border: 2px solid rgba(255, 255, 255, 0.22);
+box-shadow:
+  0px 40.6001px 16.5408px rgba(0, 0, 0, 0.01),
+  0px 22.5556px 13.5334px rgba(0, 0, 0, 0.04),
+  0px 10.526px 10.526px rgba(0, 0, 0, 0.06),
+  0px 3.00742px 6.01483px rgba(0, 0, 0, 0.07);
+border-radius: 24px;
+
+/* Frame 1686562129 */
+
+position: absolute;
+width: 90.22px;
+height: 99.24px;
+left: 20.51px;
+top: 36.09px;
+
+/* Frame 1686562166 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+position: absolute;
+width: 110px;
+height: 75.19px;
+left: calc(50% - 110px / 2 + 0.75px);
+bottom: 15.04px;
+
+/* Mobiles */
+
+width: 110px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Flat 7% */
+
+width: 60px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1686563103 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 18px;
+top: 18px;
+
+/* isometric-icon-laptop-by-bnbicons.com 1 */
+
+position: absolute;
+width: 98.12px;
+height: 79.51px;
+left: calc(50% - 98.12px / 2 + 0px);
+top: calc(50% - 79.51px / 2 - 0.85px);
+
+background: url(bg_removal [Background removed].png);
+
+/* Frame 1991634553 */
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: 674px;
+top: 17px;
+
+/* Rectangle 34628705 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 144px;
+height: 222px;
+left: calc(50% - 144px / 2 - 0.66px);
+top: calc(50% - 222px / 2 - 0.54px);
+
+background: linear-gradient(
+  180deg,
+  rgba(255, 255, 255, 0.12) 0%,
+  rgba(255, 255, 255, 0.048) 100%
+);
+mix-blend-mode: plus-lighter;
+border: 2px solid rgba(255, 255, 255, 0.22);
+box-shadow:
+  0px 40.6001px 16.5408px rgba(0, 0, 0, 0.01),
+  0px 22.5556px 13.5334px rgba(0, 0, 0, 0.04),
+  0px 10.526px 10.526px rgba(0, 0, 0, 0.06),
+  0px 3.00742px 6.01483px rgba(0, 0, 0, 0.07);
+border-radius: 24px;
+
+/* Frame 1686562129 */
+
+position: absolute;
+width: 90.22px;
+height: 99.24px;
+left: 20.51px;
+top: 36.09px;
+
+/* Frame 1686562166 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+position: absolute;
+width: 110px;
+height: 75.19px;
+left: calc(50% - 110px / 2 + 0.75px);
+bottom: 15.04px;
+
+/* Smart Home */
+
+width: 110px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Flat 7% */
+
+width: 60px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1686563103 */
+
+position: absolute;
+width: 108px;
+height: 108px;
+left: 18px;
+top: 18px;
+
+/* isometric-icon-laptop-by-bnbicons.com 1 */
+
+position: absolute;
+width: 98.12px;
+height: 79.51px;
+left: calc(50% - 98.12px / 2 - 0px);
+top: calc(50% - 79.51px / 2 - 0.85px);
+
+background: url(image.png);
+
+/* Rectangle 34629061 */
+
+position: absolute;
+width: 239.78px;
+height: 283.67px;
+left: 307.03px;
+top: -26.01px;
+
+background: radial-gradient(
+    213.74% 104.59% at 84.92% 17.89%,
+    #fda28d 0%,
+    #d5219e 100%
+  )
+  /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+filter: blur(17px);
+transform: rotate(-7.46deg);
+
+/* Frame 1991634915 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 22px;
+
+position: absolute;
+width: 411px;
+height: 228px;
+left: 42px;
+top: calc(50% - 228px / 2);
+
+/* logo/myntra */
+
+box-sizing: border-box;
+
+width: 136px;
+height: 46px;
+
+background: #ffffff;
+border: 1.14444px solid #e0e9f1;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* logoAjio */
+
+position: absolute;
+visibility: hidden;
+height: 36.67px;
+left: 10.28%;
+right: 22.74%;
+top: calc(50% - 36.67px / 2 - 1.78px);
+
+background: url(image.png);
+
+/* image 66772 */
+
+position: absolute;
+width: 85.63px;
+height: 42.81px;
+left: calc(50% - 85.63px / 2 - 0.19px);
+top: calc(50% - 42.81px / 2 + 0.41px);
+
+background: url(image.png);
+
+/* Frame 1991634778 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 351px;
+height: 88px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Upto 7% Cashback */
+
+width: 351px;
+height: 60px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height, or 150% */
+letter-spacing: 0.351562px;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* on following categories */
+
+width: 179px;
+height: 28px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+letter-spacing: -0.439453px;
+
+color: rgba(255, 255, 255, 0.7);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* textLink */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+gap: 8px;
+
+width: 160px;
+height: 50px;
+
+background: radial-gradient(
+  71.51% 127.5% at 50% -27.5%,
+  rgba(255, 255, 255, 0.43) 0%,
+  rgba(47, 47, 47, 0.43) 100%
+);
+mix-blend-mode: plus-lighter;
+box-shadow:
+  0px 15px 9px rgba(0, 0, 0, 0.04),
+  0px 7px 7px rgba(0, 0, 0, 0.06),
+  0px 2px 4px rgba(0, 0, 0, 0.07),
+  0px 27px 11px rgba(0, 0, 0, 0.01),
+  0px 15px 9px rgba(0, 0, 0, 0.04),
+  0px 7px 7px rgba(0, 0, 0, 0.06),
+  0px 2px 4px rgba(0, 0, 0, 0.07);
+border-radius: 51px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* Frame 1991634782 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 112px;
+height: 26px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* View All Rates */
+
+width: 87px;
+height: 26px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 26px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: -0.336407px;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Icon */
+
+width: 20px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 1.69406px solid #ffffff;
+
+/* Action */
+
+display: none;
+width: 16px;
+height: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1991635047 */
+
+position: absolute;
+width: 528px;
+height: 493px;
+left: 810px;
+top: 247px;
+
+/* CashbackDesktopPage */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 34px;
+gap: 10px;
+
+position: absolute;
+width: 528px;
+height: 256px;
+left: 0px;
+bottom: 0px;
+
+background: #ffffff;
+border: 1.09223px solid #e5e7eb;
+box-shadow: 0px 9.8301px 14.199px -3.2767px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 460px;
+height: 188px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991634783 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 14px;
+
+width: 345.16px;
+height: 48px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* ChatGPT Image Mar 7, 2026, 05_15_01 PM 5 */
+
+width: 56px;
+height: 46px;
+
+background: url(bg_removal [Background removed]);
+filter: blur(1px);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 340px;
+height: 48px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Heading 4 */
+
+width: 340px;
+height: 26.16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+/* Ready to earn cashback? */
+
+position: absolute;
+width: 233px;
+height: 24px;
+left: 0px;
+top: -0.55px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #101828;
+
+/* Paragraph */
+
+width: 340px;
+height: 21.84px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Shop on Flipkart & earn Cashback */
+
+position: absolute;
+width: 233px;
+height: 19px;
+left: 0px;
+top: 0.55px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.164262px;
+
+color: #4a5565;
+
+/* Frame 1991635265 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 460px;
+height: 108px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* trust-marker-desktop */
+
+width: 460px;
+height: 36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1686562362 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+width: 396px;
+height: 36px;
+left: 732px;
+top: 0px;
+
+background: #ffffff;
+
+/* Frame 1686562005 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 255.4px;
+height: 36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1686562054 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 59.4px;
+height: 36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Component 87 */
+
+width: 59.4px;
+height: 36px;
+
+filter: drop-shadow(0px 3.6px 3.6px rgba(0, 0, 0, 0.05));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Ellipse 9411 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 21.6px;
+height: 21.6px;
+left: 19.12px;
+top: 7.2px;
+
+background: url(.png), #f6d3bd;
+border: 1.35px solid #ffffff;
+
+/* Ellipse 9412 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 28.8px;
+height: 28.8px;
+left: 15.75px;
+top: 3.6px;
+
+background: url(.png), #ffc0b8;
+border: 1.8px solid #ffffff;
+
+/* Ellipse 9413 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 11.25px;
+top: 0px;
+
+background: url(.png), #ffcc8a;
+border: 2.7px solid #ffffff;
+
+/* Frame 1686562017 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 184px;
+height: 19px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* 80K Users Shoppers Today */
+
+width: 184px;
+height: 19px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 130%;
+/* or 19px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #858db5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1686562360 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+width: 460px;
+height: 36px;
+left: 0px;
+top: 0px;
+
+background: #ffffff;
+
+/* Frame 1686562361 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+width: 460px;
+height: 36px;
+left: 381px;
+top: 0px;
+
+background: #ffffff;
+
+/* Frame 1686562005 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 292px;
+height: 36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1686562054 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 36px;
+height: 36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* 3D Money Icon 1 */
+
+width: 36px;
+height: 36px;
+
+background: url(3D Money Icon.png);
+filter: drop-shadow(0px 3.6px 3.6px rgba(0, 0, 0, 0.05));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1686562017 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 244px;
+height: 19px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Users earned ₹10K on Myntra today */
+
+width: 244px;
+height: 19px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 130%;
+/* or 19px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #858db5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991635274 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1380px;
+height: 36px;
+left: 0px;
+top: 0px;
+
+/* Frame 1686562361 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+width: 460px;
+height: 36px;
+
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1686562005 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 340px;
+height: 36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1686562054 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 36px;
+height: 36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* 3D Money Icon 1 */
+
+width: 36px;
+height: 36px;
+
+background: url(3D Money Icon.png);
+filter: drop-shadow(0px 3.6px 3.6px rgba(0, 0, 0, 0.05));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1686562017 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 298px;
+height: 19px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* ₹10,000 Cashback Earned on Flipkart Today */
+
+width: 298px;
+height: 19px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 130%;
+/* or 19px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #858db5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1686562362 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+width: 460px;
+height: 36px;
+
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1686562005 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 255.4px;
+height: 36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1686562054 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 59.4px;
+height: 36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Component 87 */
+
+width: 59.4px;
+height: 36px;
+
+filter: drop-shadow(0px 3.6px 3.6px rgba(0, 0, 0, 0.05));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Ellipse 9411 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 21.6px;
+height: 21.6px;
+left: 0px;
+top: 7.2px;
+
+background: url(.png), #f6d3bd;
+border: 1.35px solid #ffffff;
+
+/* Ellipse 9412 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 28.8px;
+height: 28.8px;
+left: 8.1px;
+top: 3.6px;
+
+background: url(.png), #ffc0b8;
+border: 1.8px solid #ffffff;
+
+/* Ellipse 9413 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 23.4px;
+top: 0px;
+
+background: url(.png), #ffcc8a;
+border: 2.7px solid #ffffff;
+
+/* Frame 1686562017 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 184px;
+height: 19px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* 80K Users Shoppers Today */
+
+width: 184px;
+height: 19px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 130%;
+/* or 19px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #858db5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1686562363 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+width: 460px;
+height: 36px;
+
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* Frame 1686562005 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 343px;
+height: 36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1686562054 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 36px;
+height: 36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* 3D Money Icon 1 */
+
+width: 36px;
+height: 36px;
+
+background: url(3D Money Icon.png);
+filter: drop-shadow(0px 3.6px 3.6px rgba(0, 0, 0, 0.05));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1686562017 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 301px;
+height: 19px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* ₹10,000 Cashback Earned on Flipkart Today */
+
+width: 301px;
+height: 19px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 130%;
+/* or 19px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #858db5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Full width */
+
+width: 460px;
+height: 68px;
+
+/* CK Orange */
+background: #ff6d1d;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1991635215 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 5.58px;
+
+position: absolute;
+width: 239.58px;
+height: 22px;
+left: calc(50% - 239.58px / 2 - 0.21px);
+top: 22.33px;
+
+/* Earn Cashback on Myntra */
+
+width: 212px;
+height: 22px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Icon */
+
+width: 22px;
+height: 22px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 62.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 62.5%;
+
+border: 1.82039px solid #ffffff;
+
+/* Vector */
+
+position: absolute;
+left: 41.64%;
+right: 12.52%;
+top: 12.5%;
+bottom: 41.67%;
+
+border: 1.82039px solid #ffffff;
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 25%;
+top: 25%;
+bottom: 12.5%;
+
+border: 1.82039px solid #ffffff;
+
+/* Rectangle 34629204 */
+
+position: absolute;
+width: 33.87px;
+height: 163.26px;
+left: 428.85px;
+top: -27.54px;
+
+background: rgba(255, 255, 255, 0.27);
+transform: rotate(31.73deg);
+
+/* Rectangle 34629205 */
+
+position: absolute;
+width: 4.6px;
+height: 163.26px;
+left: 466.12px;
+top: -16.37px;
+
+background: rgba(255, 255, 255, 0.27);
+transform: rotate(31.73deg);
+
+/* Frame 1991635000 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 36px;
+
+position: absolute;
+width: 1440px;
+height: 1934px;
+left: 0px;
+top: 438px;
+
+/* Frame 1991634913 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 100px;
+gap: 32px;
+
+width: 740px;
+height: 1934px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991635016 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 640px;
+height: 1934px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Section */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 640px;
+height: 48px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 640px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Heading 2 */
+
+width: 640px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* About Myntra */
+
+position: absolute;
+width: 122px;
+height: 28px;
+left: 0px;
+top: 0px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+letter-spacing: -0.449219px;
+
+color: #1e2939;
+
+/* description-text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+isolation: isolate;
+
+width: 640px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Myntra, one of India's leading fashion destinations, offers a diverse range of collections fro... */
+
+width: 640px;
+height: 20px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+/* Text Black */
+color: #262626;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Frame 1991635269 */
+
+position: absolute;
+width: 34px;
+height: 20px;
+left: 583px;
+top: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* more */
+
+position: absolute;
+width: 34px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+color: #191919;
+
+/* Section */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 148px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 640px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Heading 2 */
+
+width: 184.45px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Cashback Timelines */
+
+position: absolute;
+width: 173px;
+height: 28px;
+left: 0px;
+top: 0px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+letter-spacing: -0.449219px;
+
+color: #1e2939;
+
+/* Icon */
+
+width: 16px;
+height: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.34%;
+top: 8.34%;
+bottom: 8.33%;
+
+border: 1.33333px solid #99a1af;
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 50%;
+top: 50%;
+bottom: 33.33%;
+
+border: 1.33333px solid #99a1af;
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 49.96%;
+top: 33.33%;
+bottom: 66.67%;
+
+border: 1.33333px solid #99a1af;
+
+/* Frame 1991634996 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px;
+gap: 9px;
+
+width: 640px;
+height: 104px;
+
+background: #e9e9fb;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1991634915 */
+
+width: 202px;
+height: 88px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Rectangle 34629161 */
+
+position: absolute;
+width: 202px;
+height: 88px;
+left: calc(50% - 202px / 2);
+top: calc(50% - 88px / 2);
+
+background: #ffffff;
+border-radius: 10px;
+
+/* Frame 1991634914 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+position: absolute;
+width: 158px;
+height: 48px;
+left: 16px;
+top: 20px;
+
+/* Frame 1991634913 */
+
+width: 48px;
+height: 48px;
+
+mix-blend-mode: plus-darker;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* 􀐬 */
+
+position: absolute;
+width: 38px;
+height: 38px;
+left: calc(50% - 38px / 2);
+top: calc(50% - 38px / 2);
+
+background: linear-gradient(180deg, #ffc485 0%, #ff9d33 100%);
+
+/* Frame 1991634912 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 100px;
+height: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Tracks in */
+
+width: 100px;
+height: 16px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+
+color: #595959;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* 36 Hours */
+
+width: 100px;
+height: 20px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+letter-spacing: -0.150391px;
+
+color: #1a1a1a;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 1991634916 */
+
+width: 202px;
+height: 88px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Rectangle 34629161 */
+
+position: absolute;
+width: 202px;
+height: 88px;
+left: calc(50% - 202px / 2);
+top: calc(50% - 88px / 2);
+
+background: #ffffff;
+border-radius: 10px;
+
+/* Frame 1991634914 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+position: absolute;
+width: 158px;
+height: 48px;
+left: 16px;
+top: 20px;
+
+/* Frame 1991634917 */
+
+width: 48px;
+height: 48px;
+
+mix-blend-mode: plus-darker;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* 􀁣 */
+
+position: absolute;
+width: 38px;
+height: 38px;
+left: calc(50% - 38px / 2);
+top: calc(50% - 38px / 2);
+
+background: linear-gradient(180deg, #4cc6ff 0%, #00a4f0 100%);
+
+/* Frame 1991634912 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 100px;
+height: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Confirms in */
+
+width: 100px;
+height: 16px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+
+color: #595959;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* 35 Days */
+
+width: 100px;
+height: 20px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+letter-spacing: -0.150391px;
+
+color: #1a1a1a;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 1991634919 */
+
+width: 202px;
+height: 88px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* Rectangle 34629161 */
+
+position: absolute;
+width: 202px;
+height: 88px;
+left: calc(50% - 202px / 2);
+top: calc(50% - 88px / 2);
+
+background: #ffffff;
+border-radius: 10px;
+
+/* Frame 1991634914 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+position: absolute;
+width: 158px;
+height: 48px;
+left: 16px;
+top: 20px;
+
+/* Frame 1686562249 */
+
+width: 48px;
+height: 48px;
+
+mix-blend-mode: plus-darker;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* 􂔐 */
+
+position: absolute;
+width: 35.34px;
+height: 38.39px;
+left: 5.67px;
+top: 5px;
+
+background: linear-gradient(180deg, #6de9c2 0%, #00c788 100%);
+
+/* Frame 1991634912 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 100px;
+height: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Withdraw Using */
+
+width: 119px;
+height: 16px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+
+color: #595959;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* UPI/Bank */
+
+width: 100px;
+height: 20px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+letter-spacing: -0.150391px;
+
+color: #1a1a1a;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Section */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 280px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+/* Heading 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 640px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Important Terms */
+
+width: 145px;
+height: 28px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+letter-spacing: -0.449219px;
+
+color: #1e2939;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991634912 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 236px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Terms and Conditions */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 174px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 16px;
+
+width: 640px;
+height: 174px;
+
+background: linear-gradient(135deg, #faf5ff 0%, #eff6ff 100%);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 1991634989 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 564px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Icon */
+
+width: 16px;
+height: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 18.75%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: linear-gradient(270deg, #e1c5ff -1200%, #882fd0 0%);
+
+/* Vector */
+
+position: absolute;
+left: 18.75%;
+right: 62.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: linear-gradient(270deg, #e1c5ff -1200%, #882fd0 0%);
+
+/* Only use coupon codes mentioned on CashKaro and Oppo website. */
+
+width: 536px;
+height: 20px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+color: #262626;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Divider */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+width: 592px;
+height: 1px;
+
+background: linear-gradient(
+  90deg,
+  rgba(0, 0, 0, 0) 0%,
+  #e9d4ff 50%,
+  rgba(0, 0, 0, 0) 100%
+);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 1991634990 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 564px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Icon */
+
+width: 16px;
+height: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 18.75%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: linear-gradient(270deg, #e1c5ff -1200%, #882fd0 0%);
+
+/* Vector */
+
+position: absolute;
+left: 18.75%;
+right: 62.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: linear-gradient(270deg, #e1c5ff -1200%, #882fd0 0%);
+
+/* Only use coupon codes mentioned on CashKaro and Oppo website. */
+
+width: 536px;
+height: 20px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+color: #262626;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Divider */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+width: 592px;
+height: 1px;
+
+background: linear-gradient(
+  90deg,
+  rgba(0, 0, 0, 0) 0%,
+  #e9d4ff 50%,
+  rgba(0, 0, 0, 0) 100%
+);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 1991634991 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 564px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Icon */
+
+width: 16px;
+height: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 18.75%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: linear-gradient(270deg, #e1c5ff -1200%, #882fd0 0%);
+
+/* Vector */
+
+position: absolute;
+left: 18.75%;
+right: 62.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: linear-gradient(270deg, #e1c5ff -1200%, #882fd0 0%);
+
+/* Only use coupon codes mentioned on CashKaro and Oppo website. */
+
+width: 536px;
+height: 20px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+color: #262626;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 11px 20px;
+gap: 12px;
+
+width: 640px;
+height: 46px;
+
+background: linear-gradient(0deg, #e9e9fb, #e9e9fb), #f4f4f9;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* View All */
+
+width: 58px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+letter-spacing: -0.3125px;
+
+color: #1447e6;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Icon */
+
+width: 16px;
+height: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 1.33333px solid #1447e6;
+
+/* Section */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 298px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+/* Heading 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 640px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Excluded Cases */
+
+width: 137px;
+height: 28px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+letter-spacing: -0.449219px;
+
+color: #1e2939;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991634912 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 254px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 1991635014 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 32px;
+gap: 10px;
+
+width: 640px;
+height: 192px;
+
+background: #fdf2f5;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991635012 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 576px;
+height: 128px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991635009 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 576px;
+height: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* ExcludedItem */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 280px;
+height: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991634992 */
+
+width: 28px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* mobile */
+
+position: absolute;
+left: 1px;
+right: 1.45px;
+top: 1.17px;
+bottom: 1.28px;
+
+font-family: "Font Awesome 6 Pro";
+font-style: normal;
+font-weight: 300;
+font-size: 23px;
+line-height: 11px;
+/* or 46% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #985758;
+
+/* Paragraph */
+
+width: 121px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Mobile App Orders */
+
+position: absolute;
+width: 118px;
+height: 20px;
+left: 0px;
+top: 0.5px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: -0.150391px;
+
+color: #364153;
+
+/* ExcludedItem */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 280px;
+height: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1991634994 */
+
+width: 28px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* train */
+
+position: absolute;
+width: 25.56px;
+height: 25.56px;
+left: 1.28px;
+top: 1.17px;
+
+font-family: "Font Awesome 6 Pro";
+font-style: normal;
+font-weight: 300;
+font-size: 23px;
+line-height: 11px;
+/* or 46% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #985758;
+
+/* Paragraph */
+
+width: 176.19px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Metro & FASTag Recharges */
+
+position: absolute;
+width: 171px;
+height: 20px;
+left: 0px;
+top: 0.5px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: -0.150391px;
+
+color: #364153;
+
+/* Frame 1991635010 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 576px;
+height: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* ExcludedItem */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 280px;
+height: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991634993 */
+
+width: 28px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* ring */
+
+position: absolute;
+width: 25.56px;
+height: 25.56px;
+left: 1.17px;
+top: 1.17px;
+
+font-family: "Font Awesome 6 Pro";
+font-style: normal;
+font-weight: 300;
+font-size: 23px;
+line-height: 11px;
+/* or 46% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #985758;
+
+/* Paragraph */
+
+width: 118.59px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Gold & Silver Buys */
+
+position: absolute;
+width: 114px;
+height: 20px;
+left: 0px;
+top: 0.5px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: -0.150391px;
+
+color: #364153;
+
+/* ExcludedItem */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 280px;
+height: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1686562050 */
+
+width: 28px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* apple */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 18.77px;
+height: 22.36px;
+left: calc(50% - 18.77px / 2 - 0.06px);
+top: calc(50% - 22.36px / 2 - 0.49px);
+
+border: 1.27778px solid #985758;
+
+/* Paragraph */
+
+width: 119.05px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* All Apple Products */
+
+position: absolute;
+width: 116px;
+height: 20px;
+left: 0px;
+top: 0.5px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: -0.150391px;
+
+color: #364153;
+
+/* Frame 1991635011 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 576px;
+height: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+/* ExcludedItem */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+display: none;
+width: 280px;
+height: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* ExcludedItem */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 280px;
+height: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1991634995 */
+
+width: 28px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* briefcase */
+
+position: absolute;
+width: 25.56px;
+height: 25.56px;
+left: 1.67px;
+top: 1.17px;
+
+font-family: "Font Awesome 6 Pro";
+font-style: normal;
+font-weight: 300;
+font-size: 23px;
+line-height: 11px;
+/* or 46% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #985758;
+
+/* Paragraph */
+
+width: 240px;
+height: 22px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+/* GST Registered & Business Owners */
+
+position: absolute;
+width: 219px;
+height: 20px;
+left: 0px;
+top: 0.5px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: -0.150391px;
+
+color: #364153;
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 11px 20px;
+gap: 12px;
+
+width: 640px;
+height: 46px;
+
+background: #f8e0e0;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* View All */
+
+width: 58px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+letter-spacing: -0.3125px;
+
+color: #1447e6;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Icon */
+
+width: 16px;
+height: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 1.33333px solid #1447e6;
+
+/* Section */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 278px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+/* Heading 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 640px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Top Myntra Offers */
+
+width: 160px;
+height: 28px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+letter-spacing: -0.449219px;
+
+color: #1e2939;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991635015 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 234px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Coupon */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+isolation: isolate;
+
+width: 640px;
+height: 210px;
+
+filter: drop-shadow(0px 8px 60px rgba(7, 42, 78, 0.1));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991634874 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+isolation: isolate;
+
+width: 86px;
+height: 210px;
+
+border-radius: 0px 24px 24px 0px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Frame 1991634858 2 */
+
+position: absolute;
+display: none;
+width: 97.56px;
+height: 382.44px;
+left: 0.15px;
+top: calc(50% - 382.44px / 2 + 0.98px);
+
+background: url(Frame 1991634858);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Rectangle 34629158 */
+
+width: 86px;
+height: 62.07px;
+
+background:
+  linear-gradient(90deg, #d457ef 0%, #b548e7 49.52%, #a040e1 100%), #9d2edd;
+border-radius: 0px 24px 0px 0px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+z-index: 1;
+
+/* Subtract */
+
+width: 85.85px;
+height: 85.85px;
+
+background:
+  linear-gradient(270deg, #d457ef 0%, #b548e7 49.52%, #a040e1 100%), #9d2edd;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+/* Rectangle 34629159 */
+
+width: 86px;
+height: 62.07px;
+
+background: linear-gradient(90deg, #d457ef 0%, #ba43e6 49.52%, #a241e2 100%);
+border-radius: 0px 0px 24px 0px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+z-index: 3;
+
+/* Title */
+
+position: absolute;
+width: 127px;
+height: 59px;
+left: 17.71px;
+top: calc(50% - 59px / 2 - 32.57px);
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 800;
+font-size: 28px;
+line-height: 59px;
+/* identical to box height, or 209% */
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: uppercase;
+
+/* Absolute/White */
+color: #ffffff;
+
+transform: rotate(-90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+/* Frame 1991634878 */
+
+width: 17px;
+height: 210px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Union */
+
+position: absolute;
+width: 18.08px;
+height: 631.05px;
+left: 0px;
+top: calc(50% - 631.05px / 2 + 0.48px);
+
+background: #ffffff;
+box-shadow: -10.3276px 0px 8.2621px #d257ef;
+
+/* Rectangle 34629058 */
+
+position: absolute;
+width: 18.08px;
+height: 336.68px;
+left: 0px;
+top: calc(50% - 336.68px / 2 - 146.71px);
+
+background: #ffffff;
+box-shadow: -10.3276px 0px 8.2621px #d257ef;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Rectangle 34629164 */
+
+position: absolute;
+width: 18.08px;
+height: 336.68px;
+left: 0px;
+top: calc(50% - 336.68px / 2 + 147.66px);
+
+background: #ffffff;
+box-shadow: -10.3276px 0px 8.2621px #d257ef;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* text body */
+
+width: 492px;
+height: 210px;
+
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+z-index: 2;
+
+/* Frame 1991634999 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 472.2px;
+height: 137px;
+left: 24.59px;
+top: 49.12px;
+
+/* Frame 1991634998 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 472.2px;
+height: 137px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Exclusive gift description */
+
+width: 472.2px;
+height: 63px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 31px;
+/* or 130% */
+
+color: #393540;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 1991634997 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 41px;
+
+width: 439.02px;
+height: 58px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1991634869 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 3.9px;
+
+width: 140.02px;
+height: 35.12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* See Details */
+
+width: 101px;
+height: 28px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 140%;
+/* identical to box height, or 28px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: rgba(11, 11, 11, 0.51);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1686563098 */
+
+width: 35.12px;
+height: 35.12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* chevron-left */
+
+position: absolute;
+width: 5.85px;
+height: 11.71px;
+left: calc(50% - 5.85px / 2 + 0.98px);
+top: calc(50% - 11.71px / 2 - 0px);
+
+background: rgba(11, 11, 11, 0.51);
+border: 0.390244px solid rgba(11, 11, 11, 0.51);
+
+/* Input Fields - Variants */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 8px 16px 8px 24px;
+gap: 8.78px;
+
+width: 258px;
+height: 58px;
+
+background: rgba(0, 54, 218, 0.05);
+border: 2px solid rgba(0, 54, 218, 0.24);
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Text */
+
+margin: 0 auto;
+width: 63px;
+height: 24px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #0036da;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* tabler:copy */
+
+margin: 0 auto;
+width: 22px;
+height: 22px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Group */
+
+position: absolute;
+left: 12.53%;
+right: 9.25%;
+top: 12.49%;
+bottom: 12.52%;
+
+/* Vector */
+
+position: absolute;
+left: 32.42%;
+right: 9.25%;
+top: 29.15%;
+bottom: 12.52%;
+
+border: 2px solid #0036da;
+
+/* Vector */
+
+position: absolute;
+left: 12.53%;
+right: 31.22%;
+top: 12.49%;
+bottom: 30.27%;
+
+border: 2px solid #0036da;
+
+/* Frame 1991634855 */
+
+position: absolute;
+height: 35.12px;
+left: 0px;
+right: 0.29px;
+top: 0px;
+
+background: #ffffff;
+
+/* Vector 2865 */
+
+position: absolute;
+visibility: hidden;
+width: 23.41px;
+height: 3.9px;
+left: 1.46px;
+top: -3.9px;
+
+background: #580202;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Vector 2866 */
+
+position: absolute;
+visibility: hidden;
+width: 23.41px;
+height: 3.9px;
+left: 188.78px;
+top: -3.9px;
+
+background: #580202;
+
+/* Rectangle 34629145 */
+
+position: absolute;
+visibility: hidden;
+width: 198.05px;
+height: 39.02px;
+left: 7.81px;
+top: -3.9px;
+
+background: linear-gradient(90deg, #fc6197 0%, #d90952 130.54%), #d9d9d9;
+
+/* Group 1354723623 */
+
+position: absolute;
+width: 108.41px;
+height: 23px;
+left: 48.78px;
+top: 5.85px;
+
+/* iconamoon:clock-light */
+
+position: absolute;
+width: 19.51px;
+height: 19.51px;
+left: 48.78px;
+top: 5.85px;
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.95122px solid #fff9f9;
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 29.17%;
+top: 29.16%;
+bottom: 50.01%;
+
+border: 1.95122px solid #fff9f9;
+
+/* Time */
+
+position: absolute;
+width: 85px;
+height: 23px;
+left: 72.2px;
+top: 5.85px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 19.5122px;
+line-height: 23px;
+letter-spacing: 0.04em;
+
+color: #fff9f9;
+
+/* Frame 1991634873 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 45px;
+height: 210px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+/* Rectangle 34629160 */
+
+box-sizing: border-box;
+
+width: 45px;
+height: 62.07px;
+
+background: #ffffff;
+border-radius: 0px 0px 24px 0px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Subtract */
+
+width: 44.88px;
+height: 85.85px;
+
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Rectangle 34629159 */
+
+box-sizing: border-box;
+
+width: 45px;
+height: 62.07px;
+
+background: #ffffff;
+border-radius: 0px 0px 24px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+/* Rectangle 34629168 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 640px;
+height: 81px;
+left: calc(50% - 640px / 2);
+top: 0px;
+
+border-radius: 0px 0px 24px 24px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+/* Rectangle 34629169 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 640px;
+height: 72px;
+left: calc(50% - 640px / 2);
+bottom: 0px;
+
+border-bottom: 1.6px solid rgba(193, 193, 193, 0.6);
+border-radius: 0px 0px 24px 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+/* Frame 1686562260 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 128px;
+height: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* logos */
+
+width: 26px;
+height: 8px;
+
+background: #8585b4;
+border-radius: 58.6667px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+/* logoAjio */
+
+position: absolute;
+visibility: hidden;
+height: 36.67px;
+left: 5.88%;
+right: 55.79%;
+top: calc(50% - 36.67px / 2 - 0.78px);
+
+background: url(image.png);
+
+/* logos */
+
+width: 26px;
+height: 8px;
+
+background: #dcdce9;
+border-radius: 58.6667px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+/* logoAjio */
+
+position: absolute;
+visibility: hidden;
+height: 36.67px;
+left: 5.88%;
+right: 55.79%;
+top: calc(50% - 36.67px / 2 - 0.78px);
+
+background: url(image.png);
+
+/* logos */
+
+width: 26px;
+height: 8px;
+
+background: #dcdce9;
+border-radius: 58.6667px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+/* logoAjio */
+
+position: absolute;
+visibility: hidden;
+height: 36.67px;
+left: 5.88%;
+right: 55.79%;
+top: calc(50% - 36.67px / 2 - 0.78px);
+
+background: url(image.png);
+
+/* logos */
+
+width: 26px;
+height: 8px;
+
+background: #dcdce9;
+border-radius: 58.6667px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+/* logoAjio */
+
+position: absolute;
+visibility: hidden;
+height: 36.67px;
+left: 5.88%;
+right: 55.79%;
+top: calc(50% - 36.67px / 2 - 0.78px);
+
+background: url(image.png);
+
+/* Section */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 464px;
+
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+/* Heading 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 640px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frequently Asked Questions */
+
+width: 245px;
+height: 28px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+letter-spacing: -0.449219px;
+
+color: #1e2939;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 420px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 1991635391 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 180px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 20px 0px 0px;
+gap: 86px;
+
+width: 640px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Why do I see multiple Rewards entries for a Single */
+
+width: 406px;
+height: 20px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+letter-spacing: -0.150391px;
+
+/* Text Black */
+color: #262626;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Icon */
+
+width: 20px;
+height: 20px;
+
+transform: rotate(-180deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 1.66667px solid #99a1af;
+transform: rotate(-180deg);
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 20px 0px 0px;
+gap: 86px;
+
+width: 640px;
+height: 120px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Why do I see multiple Rewards entries for a Single */
+
+width: 570px;
+max-width: 570px;
+height: 120px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+letter-spacing: -0.150391px;
+
+/* Text Inactive */
+color: #5c5c5c;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991635390 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 4px 0px;
+gap: 10px;
+
+width: 640px;
+height: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+/* Vector 8 */
+
+width: 640px;
+height: 0px;
+
+border: 1px solid rgba(25, 25, 219, 0.07);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 1991635392 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 44px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 20px 0px 0px;
+gap: 86px;
+
+width: 640px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Why do I see multiple Rewards entries for a Single */
+
+width: 428px;
+height: 20px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+letter-spacing: -0.150391px;
+
+/* Text Black */
+color: #262626;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Icon */
+
+width: 20px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 1.66667px solid #99a1af;
+
+/* Frame 1991635390 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 4px 0px;
+gap: 10px;
+
+width: 640px;
+height: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Vector 8 */
+
+width: 640px;
+height: 0px;
+
+border: 1px solid rgba(25, 25, 219, 0.07);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 1991635393 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 44px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 20px 0px 0px;
+gap: 86px;
+
+width: 640px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Why do I see multiple Rewards entries for a Single */
+
+width: 475px;
+height: 20px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+letter-spacing: -0.150391px;
+
+/* Text Black */
+color: #262626;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Icon */
+
+width: 20px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 1.66667px solid #99a1af;
+
+/* Frame 1991635390 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 4px 0px;
+gap: 10px;
+
+width: 640px;
+height: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Vector 8 */
+
+width: 640px;
+height: 0px;
+
+border: 1px solid rgba(25, 25, 219, 0.07);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 1991635394 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 44px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 20px 0px 0px;
+gap: 86px;
+
+width: 640px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Why do I see multiple Rewards entries for a Single */
+
+width: 447px;
+height: 20px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+letter-spacing: -0.150391px;
+
+/* Text Black */
+color: #262626;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Icon */
+
+width: 20px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 1.66667px solid #99a1af;
+
+/* Frame 1991635390 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 4px 0px;
+gap: 10px;
+
+width: 640px;
+height: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Vector 8 */
+
+width: 640px;
+height: 0px;
+
+border: 1px solid rgba(25, 25, 219, 0.07);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 1991635395 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 44px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 20px 0px 0px;
+gap: 86px;
+
+width: 640px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Why do I see multiple Rewards entries for a Single */
+
+width: 329px;
+height: 20px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+letter-spacing: -0.150391px;
+
+/* Text Black */
+color: #262626;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Icon */
+
+width: 20px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 1.66667px solid #99a1af;
+
+/* Frame 1991635390 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 4px 0px;
+gap: 10px;
+
+width: 640px;
+height: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Vector 8 */
+
+width: 640px;
+height: 0px;
+
+border: 1px solid rgba(25, 25, 219, 0.07);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Section */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 640px;
+height: 226px;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+/* Heading 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 640px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Similar Stores */
+
+width: 121px;
+height: 28px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+letter-spacing: -0.449219px;
+
+color: #1e2939;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Container */
+
+width: 640px;
+height: 182px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* main-card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 16px;
+
+position: absolute;
+width: 142px;
+height: 182px;
+left: 0px;
+top: 0px;
+
+background: #ffffff;
+border: 1px solid #e5e7eb;
+border-radius: 16px;
+
+/* banner */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 35px;
+gap: 10px;
+
+width: 142px;
+height: 28px;
+
+background: #fef2f2;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Live Now */
+
+width: 76px;
+height: 16px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+text-align: center;
+
+color: #c10007;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991635383 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 110.23px;
+height: 138.18px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Logo */
+
+width: 110.23px;
+height: 90.18px;
+
+background: #ffffff;
+border-radius: 10.0205px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Amazon 1 */
+
+position: absolute;
+width: 108.97px;
+height: 32.57px;
+left: calc(50% - 108.97px / 2 + 0.63px);
+top: calc(50% - 32.57px / 2 + 1.24px);
+
+background: url(image.png);
+border-radius: 0px;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 8px 0px;
+
+width: 110.23px;
+height: 48px;
+
+background: #1447e6;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Flat 4% Rewards */
+
+width: 86px;
+height: 32px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+text-align: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* main-card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 16px;
+
+position: absolute;
+width: 142px;
+height: 182px;
+left: 166px;
+top: 0px;
+
+background: #ffffff;
+border: 1px solid #e5e7eb;
+border-radius: 16px;
+
+/* banner */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 35px;
+gap: 10px;
+
+width: 142px;
+height: 28px;
+
+background: #fef2f2;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Live Now */
+
+width: 51px;
+height: 16px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+text-align: center;
+
+color: #c10007;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991635383 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 110.23px;
+height: 138.18px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Logo */
+
+width: 110.23px;
+height: 90.18px;
+
+background: #ffffff;
+border-radius: 10.0205px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Amazon 1 */
+
+position: absolute;
+width: 95.19px;
+height: 42.59px;
+left: calc(50% - 95.19px / 2 + 0px);
+top: calc(50% - 42.59px / 2 - 0.01px);
+
+background: url(image.png);
+border-radius: 0px;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 8px 0px;
+
+width: 110.23px;
+height: 48px;
+
+background: #1447e6;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Flat 4% Rewards */
+
+width: 86px;
+height: 32px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+text-align: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* main-card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 16px;
+
+position: absolute;
+width: 142px;
+height: 182px;
+left: 332px;
+top: 0px;
+
+background: #ffffff;
+border: 1px solid #e5e7eb;
+border-radius: 16px;
+
+/* banner */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 35px;
+gap: 10px;
+
+width: 142px;
+height: 28px;
+
+background: #fef2f2;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Live Now */
+
+width: 51px;
+height: 16px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+text-align: center;
+
+color: #c10007;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991635383 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 110.23px;
+height: 138.18px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Logo */
+
+width: 110.23px;
+height: 90.18px;
+
+background: #ffffff;
+border-radius: 10.0205px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Amazon 1 */
+
+position: absolute;
+width: 71.4px;
+height: 28.81px;
+left: calc(50% - 71.4px / 2 + 0.63px);
+top: calc(50% - 28.81px / 2 + 0.62px);
+
+background: url(image.png);
+border-radius: 0px;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 8px 0px;
+
+width: 110.23px;
+height: 48px;
+
+background: #1447e6;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Flat 4% Rewards */
+
+width: 86px;
+height: 32px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+text-align: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* main-card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 16px;
+
+position: absolute;
+width: 142px;
+height: 182px;
+left: 498px;
+top: 0px;
+
+background: #ffffff;
+border: 1px solid #e5e7eb;
+border-radius: 16px;
+
+/* banner */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 35px;
+gap: 10px;
+
+width: 142px;
+height: 28px;
+
+background: #fef2f2;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Live Now */
+
+width: 51px;
+height: 16px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+text-align: center;
+
+color: #c10007;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1991635383 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 110.23px;
+height: 138.18px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Logo */
+
+width: 110.23px;
+height: 90.18px;
+
+background: #ffffff;
+border-radius: 10.0205px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Amazon 1 */
+
+position: absolute;
+width: 71.4px;
+height: 28.81px;
+left: calc(50% - 71.4px / 2 + 0.63px);
+top: calc(50% - 28.81px / 2 + 0.62px);
+
+background: url(image.png);
+border-radius: 0px;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 8px 0px;
+
+width: 110.23px;
+height: 48px;
+
+background: #1447e6;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Flat 4% Rewards */
+
+width: 86px;
+height: 32px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+text-align: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Footer */
+
+position: absolute;
+width: 1728px;
+height: 379px;
+left: calc(50% - 1728px / 2 - 32px);
+bottom: -4px;
+
+/* Text Inactive */
+background: #5c5c5c;
+
+/* Frame 1321315895 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 80px;
+
+position: absolute;
+width: 1172.95px;
+height: 163px;
+left: calc(50% - 1172.95px / 2 - 0.1px);
+top: 32px;
+
+/* Frame 1321315884 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 130px;
+height: 163px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Heading 3 → About CashKaro */
+
+width: 130px;
+height: 19px;
+
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1321315883 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 85px;
+height: 128px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* List → Item → Link → About us */
+
+width: 64px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* List → Item → Link → Press */
+
+width: 37px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* List → Item → Link → Blog */
+
+width: 31px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* List → Item → Link → Testimonials */
+
+width: 85px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+/* Frame 1321315886 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 159px;
+height: 127px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Heading 3 → Useful Reads */
+
+width: 103px;
+height: 19px;
+
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1321315885 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 159px;
+height: 92px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* List → Item → Link → Terms and Conditions */
+
+width: 132px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* List → Item → Link → Privacy & Cookie Policy */
+
+width: 159px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* List → Item → Link → Anti-Spam Policy */
+
+width: 116px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* Frame 1321315888 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 137px;
+height: 127px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* Heading 3 → Special Pages */
+
+width: 109px;
+height: 19px;
+
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1321315887 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 137px;
+height: 92px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* List → Item → Link → Refer and Earn */
+
+width: 85px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* List → Item → Link → Careers */
+
+width: 53px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* List → Item → Link → Become our Partner */
+
+width: 137px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* Frame 1321315890 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 132px;
+height: 91px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+/* Heading 3 → Connect With Us */
+
+width: 132px;
+height: 19px;
+
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1321315889 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 75px;
+height: 56px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* List → Item → Link → Help */
+
+width: 31px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* List → Item → Link → Contact Us */
+
+width: 75px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* List → Item → Link → Facebook */
+
+display: none;
+width: 68px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* List → Item → Link → Twitter */
+
+display: none;
+width: 49px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+/* List → Item → Link → Instagram */
+
+display: none;
+width: 68px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+/* List → Item → Link → LinkedIn */
+
+display: none;
+width: 57px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+/* List → Item → Link → YouTube */
+
+display: none;
+width: 60px;
+height: 20px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+/* Frame 1321315894 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 294.95px;
+height: 162px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+/* Frame 4091 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 197.16px;
+height: 59px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 4093 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 197.16px;
+height: 59px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Let’s Get Social */
+
+width: 121px;
+height: 12px;
+
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 12px;
+/* identical to box height, or 75% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 4083 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 9.92px;
+
+width: 197.16px;
+height: 31px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Group 3949 */
+
+width: 31px;
+height: 31px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 84.28%;
+top: 0%;
+bottom: 0%;
+
+/* Artboard White */
+background: #ffffff;
+
+/* Isolation_Mode */
+
+position: absolute;
+width: 7.44px;
+height: 14.88px;
+left: 12.4px;
+top: 8.68px;
+
+/* Vector */
+
+position: absolute;
+left: 0.01%;
+right: 0.03%;
+top: 0%;
+bottom: 0.02%;
+
+/* Text Black */
+background: #262626;
+
+/* Group 3950 */
+
+width: 31px;
+height: 31px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 20.75%;
+right: 63.52%;
+top: 0%;
+bottom: 0%;
+
+/* Artboard White */
+background: #ffffff;
+
+/* image 4264 */
+
+position: absolute;
+width: 16.08px;
+height: 16.43px;
+left: 47.84px;
+top: 7px;
+
+background: url(image);
+
+/* Group 3951 */
+
+width: 31px;
+height: 31px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 41.51%;
+right: 42.77%;
+top: 0%;
+bottom: 0%;
+
+/* Artboard White */
+background: #ffffff;
+
+/* Group */
+
+position: absolute;
+left: 46.04%;
+right: 46.41%;
+top: 26.89%;
+bottom: 25.11%;
+
+/* Vector */
+
+position: absolute;
+left: 46.04%;
+right: 46.41%;
+top: 26.89%;
+bottom: 25.11%;
+
+/* Text Black */
+background: #262626;
+
+/* Vector */
+
+position: absolute;
+left: 47.89%;
+right: 48.24%;
+top: 38.56%;
+bottom: 36.8%;
+
+/* Text Black */
+background: #262626;
+
+/* Vector */
+
+position: absolute;
+left: 51.38%;
+right: 47.72%;
+top: 35.19%;
+bottom: 59.05%;
+
+/* Text Black */
+background: #262626;
+
+/* Group 3948 */
+
+width: 32.24px;
+height: 31px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 62.26%;
+right: 21.38%;
+top: 0%;
+bottom: 0%;
+
+/* Artboard White */
+background: #ffffff;
+
+/* Isolation_Mode */
+
+position: absolute;
+width: 16.72px;
+height: 11.76px;
+left: 130.2px;
+top: 9.62px;
+
+/* Vector */
+
+position: absolute;
+left: -0.01%;
+right: 0.01%;
+top: -0.01%;
+bottom: 0.01%;
+
+/* Text Black */
+background: #262626;
+
+/* Vector */
+
+position: absolute;
+left: 39.65%;
+right: 33.35%;
+top: 28.45%;
+bottom: 31.6%;
+
+background: #ffffff;
+
+/* Group 3952 */
+
+width: 32.24px;
+height: 31px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 83.65%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Artboard White */
+background: #ffffff;
+
+/* image 4265 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 173.1px;
+top: 8px;
+
+background: url(image.png);
+
+/* Frame 1321315893 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 294.95px;
+height: 79px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 1321315892 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 13px;
+
+width: 294.95px;
+height: 79px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Heading 3 → Download App */
+
+width: 117px;
+height: 24px;
+
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 1321315899 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 294.95px;
+height: 42px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* image 4267 */
+
+width: 139.53px;
+height: 42px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* image 4268 */
+
+width: 139.42px;
+height: 42px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* ( ) Copyright 2023 CashKaro. All Rights Reserved. */
+
+position: absolute;
+width: 346px;
+height: 17px;
+left: calc(50% - 346px / 2 + 18px);
+top: 329px;
+
+/* Bodycopy */
+font-family: "Metropolis";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #ffffff;
+
+/* Group 1321315829 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 716px;
+top: 332px;
+
+/* Vector */
+
+position: absolute;
+left: 41.6%;
+right: 58.08%;
+top: 88.33%;
+bottom: 9.97%;
+
+background: #ffffff;
+
+/* Vector */
+
+position: absolute;
+left: 41.44%;
+right: 57.87%;
+top: 87.6%;
+bottom: 9.23%;
+
+background: #ffffff;
+
+/* Section → Header */
+
+position: absolute;
+width: 1440px;
+height: 82px;
+right: 0px;
+top: 0px;
+
+/* cashkaro.com/White */
+background: #ffffff;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+
+/* Section */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 72px;
+
+position: absolute;
+width: 1440px;
+height: 82px;
+left: 0px;
+top: 0px;
+
+background: #ffffff;
+
+/* Section */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+margin: 0 auto;
+width: 1045px;
+height: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 16.36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 24px;
+height: 16.36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Main Category Menu */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 16.36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* mobile_toggle.svg fill */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 24px;
+height: 16.36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Component 1 */
+
+width: 24px;
+height: 16.36px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Group */
+
+position: absolute;
+left: 5.47%;
+right: 5.43%;
+top: 12%;
+bottom: 8%;
+
+/* Vector */
+
+position: absolute;
+left: 5.47%;
+right: 5.43%;
+top: 52%;
+bottom: 48%;
+
+/* cashkaro.com/Mine Shaft */
+border: 2.61818px solid #262626;
+
+/* Vector */
+
+position: absolute;
+left: 60.02%;
+right: 5.43%;
+top: 12%;
+bottom: 88%;
+
+border: 2.61818px solid #262626;
+
+/* Vector */
+
+position: absolute;
+left: 23.66%;
+right: 5.43%;
+top: 92%;
+bottom: 8%;
+
+/* cashkaro.com/Mine Shaft */
+border: 2.61818px solid #262626;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 997px;
+height: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px 0px 0px 56px;
+
+width: 640px;
+max-width: 640px;
+height: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Form */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+isolation: isolate;
+
+width: 584px;
+height: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 584px;
+max-width: 584px;
+height: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+/* Input */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16.5px 12px 16.5px 65px;
+
+width: 584px;
+max-width: 584px;
+height: 50px;
+
+/* cashkaro.com/Athens Gray */
+background: #f5f7f9;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 507px;
+height: 17px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Search for any brand or product */
+
+width: 507px;
+height: 17px;
+
+font-family: "Figtree";
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* cashkaro.com/Scorpion */
+color: #5c5c5c;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 24px;
+left: 27px;
+top: 2px;
+bottom: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 29px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Component 8 */
+
+width: 24px;
+height: 29px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 18.97%;
+bottom: 18.97%;
+
+/* cashkaro.com/Scorpion */
+background: #5c5c5c;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Section */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+margin: 0 auto;
+width: 251px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Component 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 24px;
+
+width: 85px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -1.42109e-13px;
+
+/* Text */
+
+width: 35px;
+height: 24px;
+
+/* cashkaro.com/Figtree/SemiBold */
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* cashkaro.com/Black */
+color: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 0px 0px 24px;
+gap: 8px;
+
+width: 166px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Profile Icon */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* account_circle.svg fill */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Component 1 */
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Clip path group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* a */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* cashkaro.com/Black */
+background: #000000;
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* cashkaro.com/Mine Shaft */
+background: #262626;
+
+/* Login / Sign up */
+
+width: 110px;
+height: 24px;
+
+/* cashkaro.com/Semantic/Button */
+font-family: "Figtree";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* cashkaro.com/Black */
+color: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
