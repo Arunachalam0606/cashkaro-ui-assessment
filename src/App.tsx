@@ -1,6 +1,7 @@
 import { Header } from "@/components/layout/Header"
 import { Footer } from "@/components/layout/Footer"
 import { HeroBanner } from "@/components/cashback/HeroBanner"
+import { AboutSection } from "./components/cashback/AboutSection"
 
 export const App = () => {
   return (
@@ -10,6 +11,12 @@ export const App = () => {
       <div className="mx-auto w-full max-w-324">
         <div className="md:mx-7 md:my-7.5">
           <HeroBanner />
+        </div>
+
+        <div className="m-7">
+          <div className="md:w-160">
+            <AboutSection />
+          </div>
         </div>
       </div>
 
