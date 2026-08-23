@@ -6,6 +6,7 @@ import { CashbackActionCard } from "./components/cashback/CashbackActionCard"
 import { TimelinesSection } from "./components/cashback/TimelinesSection"
 import { ImportantTermsSection } from "./components/cashback/ImportantTermsSection"
 import { ExcludedCasesSection } from "./components/cashback/ExcludedCasesSection"
+import { TopOffersSection } from "./components/cashback/TopOffersSection"
 
 export const App = () => {
   return (
@@ -24,6 +25,7 @@ export const App = () => {
               <TimelinesSection />
               <ImportantTermsSection />
               <ExcludedCasesSection />
+              <TopOffersSection />
             </div>
 
             <div className="relative z-0 hidden md:sticky md:top-6 md:-mt-34 md:block md:w-132">

@@ -199,6 +199,23 @@
     scrollbar-width: none;
   }
 
+  .bg-terms-card {
+    background: linear-gradient(135deg, #faf5ff 0%, #eff6ff 100%);
+  }
+
+  .bg-terms-divider {
+    background: linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0) 0%,
+      #e9d4ff 50%,
+      rgba(0, 0, 0, 0) 100%
+    );
+  }
+
+  .shadow-card-elevated {
+    box-shadow: 0px 9.8301px 14.199px -3.2767px rgba(0, 0, 0, 0.1);
+  }
+
   @keyframes shimmer-sweep {
     0% {
       transform: translateX(-150%) skewX(-20deg);
