@@ -7,7 +7,6 @@ import { CouponCardCopiedMobileSvg } from "@/components/coupon/coupon-card-copie
 import { ChevronDownIcon } from "@/components/icons/ChevronDownIcon"
 
 import CheckIcon from "@/assets/svgs/icons/check-icon.svg"
-
 import CopyIcon from "@/assets/svgs/icons/copy-icon.svg"
 
 export interface CouponCardProps {
