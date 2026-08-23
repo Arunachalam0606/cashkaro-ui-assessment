@@ -29,7 +29,7 @@ export const StoreCard = (props: StoreCardProps) => {
     <div
       id={id}
       onClick={handleClick}
-      className={`group flex h-35 w-26 shrink-0 cursor-pointer flex-col items-center justify-between overflow-hidden rounded-[12px] border border-ck-border-card bg-white pb-2 transition-shadow hover:shadow-md md:h-45.5 md:w-35.5 md:rounded-[16px] md:border-border md:pb-4 ${className}`}
+      className={`group flex h-35 w-26 shrink-0 cursor-pointer flex-col items-center justify-between overflow-hidden rounded-[12px] border border-ck-border-card bg-white pb-2 transition-shadow md:h-45.5 md:w-35.5 md:rounded-[16px] md:border-border md:pb-4 ${className}`}
       {...viewProps}
     >
       <div className="flex h-5 w-full items-center justify-center bg-ck-red/12 md:h-7 md:bg-ck-pink-light">
@@ -42,7 +42,7 @@ export const StoreCard = (props: StoreCardProps) => {
         <img
           src={logo}
           alt={name}
-          className="max-h-7 max-w-19 object-contain transition-transform group-hover:scale-105 md:max-h-9 md:max-w-27.25"
+          className="max-h-7 max-w-19 object-contain transition-transform md:max-h-9 md:max-w-27.25"
         />
       </div>
 

@@ -58,7 +58,7 @@ export const CashbackActionCard = (props: CashbackActionCardProps) => {
 
   if (isMobileSticky) {
     return (
-      <div className="fixed inset-x-0 bottom-0 z-40 flex flex-col items-center justify-center gap-1 border-t border-border bg-white px-4 pt-1.5 pb-4 shadow-[0_-4px_20px_rgba(0,0,0,0.08)] md:hidden">
+      <div className="flex w-full flex-col items-center justify-center gap-1 border-t border-border bg-white px-4 pt-1.5 pb-4 shadow-[0_-4px_20px_rgba(0,0,0,0.08)]">
         <div className="h-6 w-full overflow-hidden">
           <div
             onTransitionEnd={handleTransitionEnd}
@@ -197,3 +197,5 @@ export const CashbackActionCard = (props: CashbackActionCardProps) => {
     </section>
   )
 }
+
+export default CashbackActionCard

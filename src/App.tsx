@@ -15,7 +15,7 @@ export const App = () => {
     <section>
       <Header />
 
-      <div className="relative mx-auto mb-25 w-full max-w-324 md:mb-0">
+      <div className="relative mx-auto w-full max-w-324">
         <div className="relative z-10 md:mx-7 md:my-7.5">
           <HeroBanner />
         </div>
@@ -32,15 +32,15 @@ export const App = () => {
               <SimilarStoresSection />
             </div>
 
-            <div className="relative z-0 hidden md:sticky md:top-6 md:-mt-34 md:block md:w-132">
+            <div className="relative z-0 mb-37.5 hidden md:sticky md:top-6 md:-mt-34 md:block md:w-132">
               <CashbackActionCard />
             </div>
           </div>
         </div>
-      </div>
 
-      <div className="md:hidden">
-        <CashbackActionCard isMobileSticky={true} />
+        <div className="sticky bottom-0 z-40 w-full md:hidden">
+          <CashbackActionCard isMobileSticky={true} />
+        </div>
       </div>
 
       <Footer />
