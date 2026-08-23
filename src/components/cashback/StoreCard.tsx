@@ -46,7 +46,7 @@ export const StoreCard = (props: StoreCardProps) => {
         />
       </div>
 
-      <div className="flex h-10 w-22 items-center justify-center rounded-[8px] bg-ck-blue px-2 py-1.5 md:h-12 md:w-27.5 md:rounded-[10px] md:bg-ck-royal">
+      <div className="flex h-10 w-22 items-center justify-center rounded-[8px] bg-ck-blue px-2 py-1.5 md:h-12 md:w-27.5 md:rounded-[10px] md:bg-ck-royal md:px-3 md:py-2">
         <span className="text-center text-[10px] leading-3.5 font-semibold text-white md:text-xs md:leading-4">
           {rewardText}
         </span>
