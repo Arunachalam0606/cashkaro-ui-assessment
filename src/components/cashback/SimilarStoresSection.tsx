@@ -56,7 +56,7 @@ export const SimilarStoresSection = () => {
         </h2>
       </div>
 
-      <div className="no-scrollbar flex w-full flex-row items-center gap-2 overflow-x-auto py-1 md:gap-6 md:overflow-visible">
+      <div className="-mx-4 no-scrollbar flex w-[calc(100%+2rem)] flex-row items-center gap-2 overflow-x-auto px-4 py-1 md:mx-0 md:w-full md:gap-6 md:overflow-visible md:px-0">
         {storeList.map((store) => (
           <StoreCard
             key={store.id}
