@@ -1,12 +1,13 @@
 import { Header } from "@/components/layout/Header"
 import { Footer } from "@/components/layout/Footer"
 import { HeroBanner } from "@/components/cashback/HeroBanner"
-import { AboutSection } from "./components/cashback/AboutSection"
-import { CashbackActionCard } from "./components/cashback/CashbackActionCard"
-import { TimelinesSection } from "./components/cashback/TimelinesSection"
-import { ImportantTermsSection } from "./components/cashback/ImportantTermsSection"
-import { ExcludedCasesSection } from "./components/cashback/ExcludedCasesSection"
-import { TopOffersSection } from "./components/cashback/TopOffersSection"
+import { AboutSection } from "@/components/cashback/AboutSection"
+import { CashbackActionCard } from "@/components/cashback/CashbackActionCard"
+import { TimelinesSection } from "@/components/cashback/TimelinesSection"
+import { ImportantTermsSection } from "@/components/cashback/ImportantTermsSection"
+import { ExcludedCasesSection } from "@/components/cashback/ExcludedCasesSection"
+import { TopOffersSection } from "@/components/cashback/TopOffersSection"
+import { FaqSection } from "@/components/cashback/FaqSection"
 
 export const App = () => {
   return (
@@ -26,6 +27,7 @@ export const App = () => {
               <ImportantTermsSection />
               <ExcludedCasesSection />
               <TopOffersSection />
+              <FaqSection />
             </div>
 
             <div className="relative z-0 hidden md:sticky md:top-6 md:-mt-34 md:block md:w-132">
