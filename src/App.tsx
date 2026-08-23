@@ -8,6 +8,7 @@ import { ImportantTermsSection } from "@/components/cashback/ImportantTermsSecti
 import { ExcludedCasesSection } from "@/components/cashback/ExcludedCasesSection"
 import { TopOffersSection } from "@/components/cashback/TopOffersSection"
 import { FaqSection } from "@/components/cashback/FaqSection"
+import { SimilarStoresSection } from "@/components/cashback/SimilarStoresSection"
 
 export const App = () => {
   return (
@@ -28,6 +29,7 @@ export const App = () => {
               <ExcludedCasesSection />
               <TopOffersSection />
               <FaqSection />
+              <SimilarStoresSection />
             </div>
 
             <div className="relative z-0 hidden md:sticky md:top-6 md:-mt-34 md:block md:w-132">
