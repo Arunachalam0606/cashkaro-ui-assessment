@@ -180,4 +180,21 @@
   .animate-shimmer-sweep {
     animation: shimmer-sweep 2.5s infinite;
   }
+
+  .marquee-parent {
+    @apply flex shrink-0 gap-3 pr-3 md:gap-4.5 md:pr-4.5;
+  }
+
+  @keyframes marquee {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+
+  .animate-marquee {
+    animation: marquee 30s linear infinite;
+  }
 }

@@ -83,10 +83,26 @@ export const HeroBanner = () => {
         className="pointer-events-none absolute top-0 left-80 z-10 hidden h-full w-auto md:block"
       />
 
-      <div className="-mx-4 no-scrollbar flex w-[calc(100%+2rem)] gap-3 overflow-x-auto px-4 py-1 md:relative md:mx-0 md:ml-10 md:h-55.5 md:w-auto md:flex-1 md:gap-4.5 md:py-0 md:pr-10.5 md:pl-0">
-        {categories.map((card, index) => (
-          <CategoryCard key={`${card.title}-${index}`} {...card} />
-        ))}
+      <div className="-mx-4 flex w-[calc(100%+2rem)] overflow-hidden px-4 py-1 md:relative md:mx-0 md:ml-10 md:h-55.5 md:w-auto md:flex-1 md:py-0 md:pr-10.5 md:pl-0">
+        <div className="animate-marquee flex w-max hover:paused">
+          <div className="marquee-parent" aria-hidden="true">
+            {categories.map((card, index) => (
+              <CategoryCard
+                key={`category-card-1-${card.title}-${index}`}
+                {...card}
+              />
+            ))}
+          </div>
+
+          <div className="marquee-parent" aria-hidden="true">
+            {categories.map((card, index) => (
+              <CategoryCard
+                key={`category-card-2-${card.title}-${index}`}
+                {...card}
+              />
+            ))}
+          </div>
+        </div>
       </div>
 
       <div className="flex w-full items-center justify-center md:hidden">
